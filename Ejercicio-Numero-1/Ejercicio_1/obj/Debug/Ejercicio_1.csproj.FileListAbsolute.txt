@@ -1,0 +1,6 @@
+D:\ARAMAYO_NICOLAS\UTN\Segundo Cuatrimestre\Programacion II C#\Ejercicios-TP\Guia_TP\Ejercicio_1\bin\Debug\Ejercicio_1.exe.config
+D:\ARAMAYO_NICOLAS\UTN\Segundo Cuatrimestre\Programacion II C#\Ejercicios-TP\Guia_TP\Ejercicio_1\bin\Debug\Ejercicio_1.exe
+D:\ARAMAYO_NICOLAS\UTN\Segundo Cuatrimestre\Programacion II C#\Ejercicios-TP\Guia_TP\Ejercicio_1\bin\Debug\Ejercicio_1.pdb
+D:\ARAMAYO_NICOLAS\UTN\Segundo Cuatrimestre\Programacion II C#\Ejercicios-TP\Guia_TP\Ejercicio_1\obj\Debug\Ejercicio_1.csprojResolveAssemblyReference.cache
+D:\ARAMAYO_NICOLAS\UTN\Segundo Cuatrimestre\Programacion II C#\Ejercicios-TP\Guia_TP\Ejercicio_1\obj\Debug\Ejercicio_1.exe
+D:\ARAMAYO_NICOLAS\UTN\Segundo Cuatrimestre\Programacion II C#\Ejercicios-TP\Guia_TP\Ejercicio_1\obj\Debug\Ejercicio_1.pdb
